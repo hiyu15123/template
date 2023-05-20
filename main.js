@@ -1,5 +1,5 @@
-import "./style.css";
-import onInit from "./js/index";
+import "/style.css";
+import onInit from "/js/index";
 
 function init() {
   onInit();

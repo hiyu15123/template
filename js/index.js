@@ -1,7 +1,5 @@
-import { initializeStker } from "./stker.js";
+import { initializeStker } from "./components/stker";
 
 export default function onInit() {
   initializeStker();
 }
-
-onInit();
